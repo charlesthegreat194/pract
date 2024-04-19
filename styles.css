@@ -1,0 +1,14 @@
+body{
+    
+}
+.navbar{
+
+}
+.navbar-brand{
+    color: white!important;
+}
+li a{
+    color:white!important;
+    display: flex;
+    float: right;
+}
